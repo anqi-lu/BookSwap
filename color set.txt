@@ -1,0 +1,4 @@
+main red: C4524A
+background: F6EAE1
+some button: BC8D77
+gray: 9B9B9B
